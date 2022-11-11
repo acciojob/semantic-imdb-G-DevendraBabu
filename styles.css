@@ -1,2 +1,46 @@
-
+<style>
+            aside
+            {
+                float: right;
+                width: 300px;
+                height:250px;
+                background-color: black;
+                color: yellow;
+            }
+            summary
+            {
+                align-content: center; 
+                padding: 50px;
+                background-color: coral;
+            }
+            section
+            {
+                padding:4px;
+                background-color: blanchedalmond;
+            }
+            nav
+            {
+                padding: 5px;
+                background-color: cadetblue;
+            }
+            header
+            {
+                align-items: top;
+                background-color: aqua;
+                padding:10px;
+                font-size: large;
+                text-emphasis-color: black;
+                text-align: center;
+                width: auto;
+                height: auto;
+            }
+            footer
+            {
+                text-align: center;
+                padding: 4px;
+                background-color: DarkSalmon;
+                color: white;
+            }
+            
+</style>
 /* Your CSS Code here. */
